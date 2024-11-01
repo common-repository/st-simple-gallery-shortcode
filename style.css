@@ -1,0 +1,28 @@
+.item {
+    float: left;
+}
+
+.item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.one {
+    width: 100%;  
+}
+
+.two {
+    width: 50%;  
+}
+
+.three {
+    width: 33%;  
+}
+
+.four {
+    width: 25%;  
+}
+
+.five {
+    width: 20%;  
+}
